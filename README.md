@@ -3,6 +3,8 @@ SimplePHPFileIndex
 
 A simple well-not-designed PHP file index. (Auto directory listing PHP page/script)
 
+Um único index.php no raiz lista todos os arquivos recursivamente
+
 Feature
 ==================
 
